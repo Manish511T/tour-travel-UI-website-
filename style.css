@@ -8,7 +8,8 @@
 html body{
     height: 100%;
     width: 100%;
-    background-image:url(/daniel-angele-Joo3UBw789Q-unsplash.jpg) ;
+    background-image:url(https://images.unsplash.com/photo-1617634667039-8e4cb277ab46?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFuZHNjYXBlJTIwbmF0dXJlfGVufDB8fDB8fHww) ;
+    background-size: cover;
 }
 
 /* navbar */
@@ -53,8 +54,8 @@ html body{
 .hero{
     height: 650px;
     width: 100%;
-    /* background-color: cadetblue; */
-    background-image: url(/navi-C2hUoPNTU-4-unsplash.jpg);
+    /* background-color: cadenavi-C2hUoPNTU-4-unsplash.jpgtblue; */
+    background-image: url(https://images.unsplash.com/photo-1620301598483-f872a86a58af?q=80&w=822&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;
     background-position: center;
     position: relative;
